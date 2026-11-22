@@ -11,8 +11,8 @@ const HEROES=[
  {e:'🤖',n:'Iron Disha',t:"Genius-level advice. Honestly, you could run my whole life. 🧠"},
  {e:'⚡',n:'Thor Disha',t:"Mighty when it matters. Strong enough to handle all my silly jokes. 😂"},
  {e:'💚',n:'Hulk Disha',t:"When someone touches her food: Hulk mode ON. Stay away. 🍟😤"},
- {e:'🕷️',n:'Spider Disha',t:"Your friendly neighbourhood cutie. With great power comes great cuteness. 🥰"},
- {e:'🏹',n:'Hawkeye Disha',t:"Never misses a target, especially the last bite of anything. 🎯"}
+ {e:'🕷️',n:'Spider Disha',t:" With great power comes great cuteness. 🥰"},
+ {e:'🏹',n:'Hawkeye Disha',t:"Never misses a target, especially the Rasmalai😂. 🎯"}
 ];
 const STONES=[
  {n:'Space',c:'#3d7bff',t:"Space Stone: distance? Please. I'm still right next to you, always. 🚀"},
